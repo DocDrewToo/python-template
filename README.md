@@ -21,7 +21,7 @@ Option B - use poetry shell
 * Activating the venv  
   `poetry shell`
   
-* Run python programs as normal. 
+* Run python programs as normal.  
   `python my_python_app.py`
   
 * de-activating the venv  
