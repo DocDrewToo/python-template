@@ -7,14 +7,23 @@ Insallation instructions: https://python-poetry.org/docs/
 
 To run the code, there are 2 options A and B
 
-Option A:
+Option A - leverage poetry commands
 ------------
-Activating the venv  
-`poetry shell`
+* To Run a python program:
+  `poetry run my_python_app.py`
+  
+* To add a repository to poetry
+  `poetry add <repo-name>`
 
-de-activating the venv:  
-`exit`  
-    
-Option B:
+
+Option B - use poetry shell
 ------------
-'poetry run my_python_app.py'
+* Activating the venv  
+  `poetry shell`
+  
+* Run python programs as normal
+  `python my_python_app.py`
+  
+* de-activating the venv:  
+  `exit`  
+    
