@@ -9,10 +9,10 @@ To run the code, there are 2 options A and B
 
 Option A - leverage poetry commands
 ------------
-* To Run a python program. 
+* To Run a python program.  
   `poetry run my_python_app.py`
   
-* To add a repository to poetry. 
+* To add a repository to poetry.  
   `poetry add <repo-name>`
 
 
